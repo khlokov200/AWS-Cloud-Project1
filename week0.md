@@ -5,6 +5,7 @@ Required Homework/Tasks:
 -Generate Credentials, AWS CLI, Budget and Billing Alarm via CLI
 
 -Lucid Chart- Recreate Crudder Logical Diagram
+
 <img width="332" alt="AWS Cloud Bootcamp" src="https://user-images.githubusercontent.com/68391442/219869631-dfe5e48d-65d2-4fd2-b5a9-48dc907918ee.PNG">
 
 AWS Cloud Bootcamp
